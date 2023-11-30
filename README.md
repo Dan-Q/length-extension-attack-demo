@@ -5,7 +5,7 @@ This repository contains a practical demonstration of a Length Extension Attack.
 Companion/explanatory materials can be found in:
 
 - [An in-depth blog post](https://danq.me/2023/11/30/length-extension-attack/)
-- [A video based on the blog post]([https://danq.me/2023/11/30/length-extension-attack/](https://danq.me/2023/11/30/length-extension-attack-video/))
+- [A video based on the blog post](https://danq.me/2023/11/30/length-extension-attack-video/)
     - ...[also available on YouTube](https://www.youtube.com/watch?v=H_bvdhPMizE)
     - ...[also available on Facebook](https://www.facebook.com/DanQBlog/videos/634831868617045/)
 
